@@ -10,7 +10,7 @@ Answer the following questions thoughtfully. These reflections help you ground y
 ### 1. Background & Experience
 **What programming experience (if any) do you have?**
 ```
-[Write your answer here]
+[python]
 ```
 
 **Have you worked with data before? If so, in what context?**
