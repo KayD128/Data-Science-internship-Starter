@@ -10,12 +10,12 @@ Answer the following questions thoughtfully. These reflections help you ground y
 ### 1. Background & Experience
 **What programming experience (if any) do you have?**
 ```
-[python]
+[I have programming experience with python. I strted with python basics and moved to using django and flask for website. Then, I started working with numpy, pandas, matplotlib etc for analysis. Scikit-learn library for predictive modelling. I have worked on personal projects since then, all on my GitHub but failed to deploy any online.]
 ```
 
 **Have you worked with data before? If so, in what context?**
 ```
-[Write your answer here]
+[I have worked with data for different reasons. Example is the weather report data. I used the features to predict of there would be rainfall or not. The features include; max temp., min temp, pressure, humidity, etc. I have also used data to analyse and bring out information for decision making. Like a Taxi company data. It contains the riders information, drivers information, payments made and also rides taken.]
 ```
 
 ---
@@ -23,17 +23,17 @@ Answer the following questions thoughtfully. These reflections help you ground y
 ### 2. Motivation & Goals
 **Why did you choose to pursue a Data Science internship?**
 ```
-[Write your answer here]
+[Based on my experience so far in the Data Science field, I feel I can still do more to improve, to get better in my area of interest.]
 ```
 
 **What do you hope to achieve by the end of this 8-week program?**
 ```
-[Write your answer here]
+[I hope to gain new knowledge in this program and have more and new projects for my portfolio]
 ```
 
 **What area of data science interests you most? (e.g., Machine Learning, Analytics, NLP, Computer Vision)**
 ```
-[Write your answer here]
+[Machine Learning]
 ```
 
 ---
