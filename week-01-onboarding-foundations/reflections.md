@@ -41,30 +41,30 @@ Answer the following questions thoughtfully. These reflections help you ground y
 ### 3. Understanding the Basics
 **In your own words, what is Data Science?**
 ```
-[Write your answer here - try to explain it as if you were teaching someone]
+[Data Science is the process of solving complex problem by a structured approach using data solving methods. In data science, models are created to predict the outcome of future events. It is a way of answering the question of "What will happen?", using mathematical and statistical approaches.]
 ```
 
 **Name 3 real-world applications of Data Science:**
-1. 
-2. 
-3. 
+1. Natural Language Processing - To detect between violant or peaceful message
+2. Medical field - Predict the diagnose of a disease or sickness
+3. Engineering - Used in robotics and AI
 
 ---
 
 ### 4. Learning Style & Challenges
 **How do you learn best? (e.g., visual tutorials, hands-on practice, reading documentation, pair programming)**
 ```
-[Write your answer here]
+[I learn better with hands-on practice and pair programming]
 ```
 
 **What are you most nervous or uncertain about?**
 ```
-[Write your answer here]
+[Not understanding the advanced part of Data Science]
 ```
 
 **How will you overcome this challenge?**
 ```
-[Write your answer here]
+[I plan to take this more seriously and dedicate time to work. Time is what I need]
 ```
 
 ---
@@ -72,17 +72,17 @@ Answer the following questions thoughtfully. These reflections help you ground y
 ### 5. Weekly Reflection
 **What was the most useful thing you learned this week?**
 ```
-[Write your answer here]
+[Seeing that there are better ways to deploy project]
 ```
 
 **What took longer than expected?**
 ```
-[Write your answer here]
+[Nothing yet]
 ```
 
 **What tool or concept would you like to understand better?**
 ```
-[Write your answer here]
+[Model Selection and Model Deployment]
 ```
 
 ---
@@ -90,9 +90,9 @@ Answer the following questions thoughtfully. These reflections help you ground y
 ## Action Items for Next Week
 Based on your reflections above, list 3 things you want to focus on or improve:
 
-1. 
-2. 
-3. 
+1. I need to revise my basic python programming skills. It's been too long
+2. I want to understand how to use Scikit-learn better and do data exploration before model selection.
+3. I also need to understand model deployment
 
 ---
 
